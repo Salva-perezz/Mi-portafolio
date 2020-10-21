@@ -1,0 +1,140 @@
+body {
+    /* background-image: url(https://eskipaper.com/images/solid-color-wallpaper-5.jpg); */
+    background-color: #1d3557;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bg-color {
+    background-color: #e63946;
+}
+
+nav {
+    border-top: solid 0.2em #1d3557;
+    border-bottom: solid 0.2em #1d3557;
+    position: fixed;
+}
+
+.jumbotron {
+    background-color: #457b9d;
+    text-align: center;   
+}
+
+.navbar-color {
+    color: #fff;
+}
+
+.img-portfolio {
+    margin-top: 1em;
+    width: 80%;
+    height: 80%;
+    border-radius: 1em;
+    margin-left: 1em;
+}
+
+#portfolio {
+    text-align: center;
+}
+
+hr {
+    background-color: #e63946;
+    height: 0.1em;
+    width: 90%;
+}
+
+.text-portfolio {
+    color: #a8dadc;
+}
+
+.text-portfolio:hover {
+    color: #a8dadc;
+    text-decoration: none;
+}
+
+.sobre-mi {
+    margin-top: 10em;
+    background-color: #457b9d;
+}
+
+#sobre-mi {
+    padding-top: 2em;
+}
+
+.img-jumbo {
+    width: 20em;
+    height: 15em;
+    margin-top: 5em;
+}
+
+.sobre-text {
+    text-align: center;
+}
+
+.p-sobre {
+    width: 60%;
+    display: block;
+    margin: auto;
+    padding-bottom: 5em;
+    padding-top: 5em;
+}
+
+form {
+    width: 30%;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 5em;
+    padding-bottom: 5em;
+}
+
+.label-form {
+    color: #a8dadc;
+}
+
+#mensaje {
+    height: 5em;
+}
+
+.btn {
+    background-color: #e63946;
+    border: none;
+    color: #a8dadc;
+}
+
+.btn:hover {
+    background-color: #457b9d;
+}
+
+.foot {
+    background-color: #f1faee;
+    padding-bottom: 5em;
+    
+}
+
+.redes {
+    padding-top: 5em;
+    text-align: center;
+}
+
+.img-foot {
+    width: 3em;
+    height: 3em;
+    padding: 0.5em;
+}
+
+.copy {
+    background-color: #e63946;
+    text-align: center;
+    height: 1.5em;
+}
+
+#h2-contact {
+    color: #a8dadc;
+    text-align: center;
+    margin-top: 5em;
+}
+
+.hr-redes {
+    background-color: #000000;
+    height: 0.1em;
+}
